@@ -10,7 +10,7 @@ for(x=0;x<square.length;x++)
 {
 	colors.push(rnd());
 }
-function rnd()
+     function rnd()
 {
 	var r=Math.floor(256*Math.random());
 	var b=Math.floor(256*Math.random());
